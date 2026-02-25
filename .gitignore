@@ -1,0 +1,34 @@
+# ======================
+# Python & Jupyter Ignored
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# ======================
+# Editor/OS Temporary Files
+# ======================
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+*.log
+
+# ======================
+# Build/Output Files
+# ======================
+*.pdf  # ❌ 保留您的PDF！但忽略生成的PDF（如编译生成的）
+*.png
+*.jpg
+*.svg
+
+# ======================
+# Critical: Preserve ALL Theory Files
+# ======================
+# ✅ DO NOT IGNORE THESE (your core files):
+# FAME_theorem.pdf
+# SCAC_algorithm.py
+# Personality_Equivalence.ipynb
+# (This is the key! We ignore *generated* files, not your theory files)
