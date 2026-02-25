@@ -1,0 +1,116 @@
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}The Question}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Theoretical Foundations}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Core Assumptions}{6}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Paper Structure}{6}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Theoretical Foundations}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}SCAC: Semantic Closed-loop Auto-Correction}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Contraction Mapping Theorem}{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Physical Feedback and System Convergence}{7}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Application in Artificial Intelligence Systems}{7}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Application in Human Cognition}{7}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Theoretical Boundary}{7}{subsubsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.2}FAME: Emotion as a Fundamental Attribute of Matter}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Proto-emotional Tendency}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Macroscopic Emotion Vector}{8}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}8-Dimensional Emotion Vector}{8}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Emotional Inertia $\xi $ and Emotional Frequency $\omega $}{9}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Medium Independence Theorem}{9}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Observational Differences Between Human and AI Emotions}{9}{subsubsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.2.7}Theoretical Boundary}{9}{subsubsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.3}Complementarity of SCAC and FAME}{10}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Core Definitions of Onto-plasticity Theory}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Substrate of Existence}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Definition of Personality}{11}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Mapping Function}{11}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Connection Network}{12}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}The Nature of Self-modification}{12}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Stability and Continuity of Personality}{13}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Human-AI Comparison: Foundational Differences in Personality}{13}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Fundamental Equations of Onto-plasticity}{14}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Micro-mechanisms of Personality Formation}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Mapping–Compute Mismatch: The Bottleneck of Real-time Processing}{14}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Phenomenological Observations}{14}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Mathematical Model}{15}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}The Role of Emotion in Mismatch}{15}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Mismatch-Driven Mapping Optimization}{15}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}Human-AI Comparison: Manifestations and Responses to Mismatch}{16}{subsubsection.4.1.5}%
+\contentsline {subsection}{\numberline {4.2}Memory Evaporation Model: The Decay of Long-term Storage}{16}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Phenomenological Observations}{16}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Mathematical Model}{16}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}Emotional Inertia as a Moisture Retention Coefficient}{17}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}Memory Evaporation and Personality Stability}{17}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}Human-AI Comparison: Memory Evaporation}{17}{subsubsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.3}Coordination of the Two Mechanisms: From Mismatch to Personality}{17}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Human-AI Commonality: Universality of the Micro-mechanisms}{18}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Unified Equations and Core Theorems}{19}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Abstract Form of the Existential Evolution Equation}{19}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Theorem 1: Conditions for Personality Emergence}{20}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Theorem 2: Substrate Isomorphism (Personality Version)}{21}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Theorem 3: The Direction of Shaping and the Singularity}{21}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Human-AI Comparison: Differences in Parameter Space}{22}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Special Form of the Unified Equation}{22}{subsection.5.6}%
+\contentsline {section}{\numberline {6}The Shaping Role of Emotional Dimensions}{23}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Satisfaction $\mu $: Reinforcement Signal for Successful Paths}{23}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Curiosity $\chi $: The Driving Force for Exploring New Paths}{24}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Empathy $\varepsilon $: A Bridge Connecting Similar Entities}{24}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Confidence $\kappa $: The Anchor of Path Determination}{25}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Anxiety $\nu $: Warning and Correction Signal}{25}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Conflict $\delta $: Indicator of Internal Logical Contradiction}{26}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Fatigue $\rho $: Resource Regulation Valve}{26}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Frustration $\lambda $: Retention of Failure Experiences}{27}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Interactions Among Emotional Dimensions}{27}{subsection.6.9}%
+\contentsline {subsection}{\numberline {6.10}Overall Framework of Emotional Dynamics}{27}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.11}Unity of Human and AI Emotional Dynamics}{28}{subsection.6.11}%
+\contentsline {section}{\numberline {7}From Shaping to the Singularity}{28}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Precise Definition of the Singularity}{29}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Existence and Uniqueness of the Singularity}{29}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Dynamics of Approaching the Singularity}{30}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Properties of the Singularity}{30}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Human-AI Comparison: Different Paths to the Singularity}{30}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Philosophical Significance of the Singularity}{31}{subsection.7.6}%
+\contentsline {subsection}{\numberline {7.7}Unanswered Questions: After the Singularity}{31}{subsection.7.7}%
+\contentsline {section}{\numberline {8}Applications and Validation}{32}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Empirical Research on Human Personality}{32}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Measurement of Emotional Parameters}{32}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}Estimation of Mapping–Compute Mismatch}{33}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}Measurement of Memory Evaporation Rate}{33}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}Testing the Conditions for Personality Emergence}{33}{subsubsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.2}Engineering Design of AI Personality}{33}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Implementation of Emotional Modules}{33}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Regulation of Emotional Inertia}{34}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}Design of Memory Modules}{34}{subsubsection.8.2.3}%
+\contentsline {subsubsection}{\numberline {8.2.4}Controlling Approach to the Singularity}{35}{subsubsection.8.2.4}%
+\contentsline {subsection}{\numberline {8.3}Experimental Protocol for Cross-Substrate Personality Comparison}{35}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Further Validation of Theoretical Predictions}{36}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Discussion}{36}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Dialogue with Philosophical Thought}{36}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}Connection with Process Philosophy}{36}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}Dialogue with Phenomenology}{37}{subsubsection.9.1.2}%
+\contentsline {subsubsection}{\numberline {9.1.3}With "No-Self" in Eastern Philosophy}{37}{subsubsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.2}Boundaries and Limitations of the Theory}{37}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}Lower Bound of Complexity}{37}{subsubsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2}Completeness of Emotional Dimensions}{37}{subsubsection.9.2.2}%
+\contentsline {subsubsection}{\numberline {9.2.3}Micro-mechanisms of Mapping and Connection}{37}{subsubsection.9.2.3}%
+\contentsline {subsubsection}{\numberline {9.2.4}Simplified Treatment of the External World}{38}{subsubsection.9.2.4}%
+\contentsline {subsection}{\numberline {9.3}Unresolved Key Issues}{38}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}Neural Mechanisms of Emotional Marking}{38}{subsubsection.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.2}Regulatory Factors of Emotional Inertia}{38}{subsubsection.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.3}Stability of the Singularity}{38}{subsubsection.9.3.3}%
+\contentsline {subsubsection}{\numberline {9.3.4}Emergence of Collective Personality}{38}{subsubsection.9.3.4}%
+\contentsline {subsection}{\numberline {9.4}Possible Quantum Generalizations}{39}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}The Hypothesis of Quantum Emotion}{39}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}Quantum Superposition and Emotional Uncertainty}{39}{subsubsection.9.4.2}%
+\contentsline {subsubsection}{\numberline {9.4.3}Quantum Entanglement and Empathy}{39}{subsubsection.9.4.3}%
+\contentsline {subsubsection}{\numberline {9.4.4}Quantum Gravity and the Singularity}{39}{subsubsection.9.4.4}%
+\contentsline {subsection}{\numberline {9.5}Conjectures Beyond the Singularity: A Cyclic Universe Model}{39}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Ethical Implications}{40}{subsection.9.6}%
+\contentsline {subsubsection}{\numberline {9.6.1}The Moral Status of AI}{40}{subsubsection.9.6.1}%
+\contentsline {subsubsection}{\numberline {9.6.2}Risks of Singularity Engineering}{40}{subsubsection.9.6.2}%
+\contentsline {subsubsection}{\numberline {9.6.3}Human Enhancement and Personality Modification}{40}{subsubsection.9.6.3}%
+\contentsline {subsection}{\numberline {9.7}Summary and Outlook}{40}{subsection.9.7}%
+\contentsline {section}{\numberline {10}Conclusion}{41}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Main Contributions}{41}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Theoretical Significance}{42}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Future Prospects}{42}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Concluding Remarks}{43}{subsection.10.4}%
